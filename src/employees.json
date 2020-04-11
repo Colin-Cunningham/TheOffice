@@ -1,0 +1,131 @@
+[
+    {
+      "id": 1,
+      "name": "Michael Scott",
+      "image": "https://66.media.tumblr.com/3a8c56d900d560816aa1cffc58d528b0/dc247a8828ce3176-5f/s400x600/33f2b27131b75de26221a377c375f7a5a1cbcb5d.png",
+      "title": "Manager",
+      "phoneNumber": "570-867-5309",
+      "salary": 50000
+    },
+    {
+      "id": 2,
+      "name": "Jim Halpert",
+      "image": "https://pbs.twimg.com/profile_images/3171824697/ef75d90df2e65ce326acf30262df5918.jpeg",
+      "title": "Co-Manager",
+      "phoneNumber": "570-123-6980",
+      "salary": 65000
+    },
+    {
+      "id": 3,
+      "name": "Pam Beasly",
+      "image": "https://i.pinimg.com/originals/f2/1d/ba/f21dbab3929c43a610d276ec88d72009.jpg",
+      "title": "Office Manager",
+      "phoneNumber": "An Easter Island Head",
+      "salary": 52000
+    },
+    {
+      "id": 4,
+      "name": "Creed Bratton",
+      "image": "https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8xMTAyOTAzNS9vcmlnaW4uZ2lmIiwiZXhwaXJlc19hdCI6MTYyMDM2ODM1Mn0.ca9x1Dm_Kx4nZagrMVT0Zb9xCXOdleSOUqrvI_1uaXs/img.gif?width=357&height=200",
+      "title": "Quality Assurance",
+      "phoneNumber": "N/A",
+      "salary": 40000
+    },
+    {
+      "id": 5,
+      "name": "Stanley Hudson",
+      "image": "https://static-12.sinclairstoryline.com/resources/media/a635a1b6-4cc4-425b-b686-67fa860f9ed8-large3x4_stanleyhudsonNBC.PNG?1550090897111",
+      "title": "Salesmen",
+      "phoneNumber": "570-467-3478",
+      "salary": 65000
+    },
+    {
+      "id": 6,
+      "name": "Phyllis Lapin-Vance",
+      "image": "https://theofficeanalytics.files.wordpress.com/2017/10/31e7876d039c20872c65394bca137c1a_4410a99208ac7cde8b645383e2796784.jpg?w=1200",
+      "title": "Sales Woman",
+      "phoneNumber": "570-798-9087",
+      "salary": 62000
+    },
+    {
+      "id": 7,
+      "name": "Kelly Kapoor",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/eXDFklp6xdWXLyvn9BcH5p-b_rk/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/06/21/951/n/1922283/05e3e789_edit_img_image_41730517_1466542783_kelly-th/i/Kelly-Kapoor-GIFs-From-Office.jpg",
+      "title": "Customer Service",
+      "phoneNumber": "570-456-6754",
+      "salary": 58000
+    },
+    {
+      "id": 8,
+      "name": "Dwight Schrute",
+      "image": "https://tvlover123.weebly.com/uploads/3/7/6/6/37666933/published/images-18_1.jpg?1545587431",
+      "title": "Assitant to the regional manager",
+      "phoneNumber": "Unlisted",
+      "salary": 61000
+    },
+    {
+      "id": 9,
+      "name": "Ryan Howard",
+      "image": "https://vignette.wikia.nocookie.net/theoffice/images/d/d9/Blondryan.jpg/revision/latest?cb=20181107223529",
+      "title": "Adventurer",
+      "phoneNumber": "570-786-4511",
+      "salary": "20/Hour"
+    },
+    {
+      "id": 10,
+      "name": "Toby Flenderson",
+      "image": "https://imgix.bustle.com/uploads/image/2018/4/27/0abf8fa8-f9f5-4fdf-8987-8991bcb3865e-screen-shot-2018-04-25-at-105715-pm-1.png",
+      "title": "Human Resources",
+      "phoneNumber": "570-555-9194",
+      "salary": 45000
+    },
+    {
+      "id": 11,
+      "name": "Darryl Philbin",
+      "image": "https://lh3.googleusercontent.com/proxy/08BixMEPxZi73CVQE6aDAMLmLTMKe7WWkXmsket1lNCpJJm8RKejQUnnVU0oPk2PabpvjOSJiu-9gwdc38Dl1P7lQOpJuhjP4BWn_25oiy2M7TPnNBlG_Oub61M9wdKrUiaQbWT-1iUriZ0srqnl5J1axmco",
+      "title": "Warehouse Manager",
+      "phoneNumber": "570-551-6192",
+      "salary": 60000
+    },
+    {
+      "id": 12,
+      "name": "Kevin Malone",
+      "image": "https://img.geocaching.com/cache/large/697de8a5-5e96-4d14-a60c-3befe0b692e8.jpg?rnd=0.9279335",
+      "title": "Accountant",
+      "phoneNumber": "570-545-0123",
+      "salary": 50000
+    },
+    {
+      "id": 13,
+      "name": "Angela Martin",
+      "image": "https://img.nbc.com/sites/nbcunbc/files/images/2013/11/12/angela-500x500.jpg",
+      "title": "Accountant",
+      "phoneNumber": "570-456-0118",
+      "salary": 60000
+    },
+    {
+      "id": 14,
+      "name": "Oscar Martinez",
+      "image": "https://i.pinimg.com/originals/ed/73/b6/ed73b64b3a545549cfb3ead6f32388f8.jpg",
+      "title": "Accountant",
+      "phoneNumber": "570-523-8765",
+      "salary": 60001
+    },
+    {
+      "id": 15,
+      "name": "Meridith Palmer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Meredith_Palmer.jpg/255px-Meredith_Palmer.jpg",
+      "title": "Customer Service",
+      "phoneNumber": "570-567-0001",
+      "salary": 50000
+    },
+    {
+      "id": 16,
+      "name": "Andy Bernard",
+      "image": "https://img1.looper.com/img/gallery/the-office-the-real-reason-andy-was-promoted-over-dwight/intro-1586377261.jpg",
+      "title": "Salesman",
+      "phoneNumber": "570-345-2462",
+      "salary": 50000
+    }
+  ]
+  
